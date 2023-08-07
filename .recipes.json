@@ -1,0 +1,15 @@
+{
+   "recipes":{
+      "shredded-chicken":"shredded-chicken.yaml"
+   },
+   "collections":{
+      "Lunch":{
+         "recipes":[
+            {
+               "key":"shredded-chicken",
+               "label":"Shredded Chicken"
+            }
+         ]
+      }
+   }
+}

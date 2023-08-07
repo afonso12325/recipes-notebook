@@ -1,0 +1,37 @@
+author: Afonso12325
+recipe: Shredded Chicken
+spec: v0.1.0
+tags: lunch
+servings: 1
+
+steps:
+  - description: Cut chicken breast into medium sized parts, roughly 3 or 4 per breast.
+    ingredients:
+      - item: Chicken Breast
+        amount: 1
+        unit: kg
+    prepTime:
+      amount: 2
+      unit: minute
+  - description: Season it with salt, paprika, black peper
+    prepTime:
+      amount: 1
+      unit: minute
+  - description: Bring it to a pre-heated pressure pan with olive oil, until it forms a nice crust
+    ingredients:
+      - item: Olive Oil
+        amount: 3
+        unit: tbsp
+    cookTime:
+      amount: 5
+      unit: minute    
+  - description: Add enough water to cover the chicken, an close the lid. Cook it for 20 minutes, after pressure.
+    ingredients:
+      - item: Water
+        amount: 2
+        unit: l
+    cookTime:
+      amount: 20
+      unit: minute    
+  - description: Strain chicken stock (and reserve).   
+  - description: Shake pan with chicken to have it shredded.
